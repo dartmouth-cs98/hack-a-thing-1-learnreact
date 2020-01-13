@@ -43,3 +43,9 @@
     * Reading API weather data from another file and on the web
     * Clarified the distinction between state and props and their respective uses
 * https://www.youtube.com/watch?v=204C9yNeOYI&t=587s
+
+### Unmasked (React Version) - Working Version
+* What did I learn?
+    * Learned that I dislike CSS and that I need to further build on my current skillset
+* HTML Version: https://www.unmaskedproject.com/
+* Working React Version in the folder
